@@ -35,7 +35,7 @@ Jarvis is a simple voice-controlled assistant built using Python. It can recogni
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/JARVIS_AI_ASSISTANT.git
+git clone https://github.com/SAzzAd-main/JARVIS_AI_ASSISTANT.git
 cd JARVIS_AI_ASSISTANT
 
 2. Install dependencies:
